@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Felipe, mais conhecido como Raviel, tenho 16 anos e sou natural do Rio Grande do Norte. Atualmente estou cursando o ensino médio no IFRN, com o curso técnico em informática. Sou apaixonado por tecnologia.
+Me chamo João Felipe, mais conhecido como Raviel, tenho 16 anos e sou natural do Rio Grande do Norte. Atualmente estou cursando o ensino médio no IFRN, com o curso técnico em informática. Sou apaixonado por tecnologia e por criar soluções digitais para o seu problema.
 
 ---
 
