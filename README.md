@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou João Felipe ou Raviel
 
-### 💻 Desenvolvedor Python • Estudante de TII • FullStack Developer
+### 💻 Desenvolvedor Full Stack • Python • JavaScript • Estudante de TII
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Python;Criando+jogos+com+Pygame;Estudando+Banco+de+Dados;Sempre+aprendendo+algo+novo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Full+Stack+Developer;Python+%7C+JavaScript;React+%7C+Next.js;Criando+jogos+com+Pygame;Sempre+aprendendo+algo+novo." />
 
 </div>
 
@@ -12,13 +12,15 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante do Curso Tecnico de Informatica Para a Internet no IFRN-CA
+🎓 Estudante do Curso Técnico de Informática para Internet no IFRN - Campus Caicó
 
-🐍 Desenvolvedor Python e JavaScript
+💻 Desenvolvedor Full Stack com foco em Python e JavaScript
 
-🎮 Apaixonado por desenvolvimento de jogos com Pygame
+🎮 Apaixonado por desenvolvimento de jogos utilizando Pygame
 
-🗄️ Estudando Banco de Dados (MySQL)
+🌐 Desenvolvendo aplicações Web modernas com React e Next.js
+
+🗄️ Desenvolvendo APIs utilizando Flask e SQLAlchemy
 
 🌱 Sempre aprendendo novas tecnologias
 
@@ -30,7 +32,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,flask,mysql,git,github,vscode,linux" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -82,21 +89,24 @@
 
 💻 Alguns projetos desenvolvidos:
 
-- 🎮 Jogos em Python com Pygame
+- 🎮 Jogos desenvolvidos com Pygame
+- 🌐 Aplicações Web com React e Next.js
+- ⚙️ APIs REST utilizando Flask
+- 🗄️ Banco de Dados com SQLAlchemy e MySQL
 - 🐍 Aplicações em Python
-- 📚 Aplicações com JavaScript
-- 📚 Projetos acadêmicos
+- 📚 Projetos acadêmicos e pessoais
 
 ---
 
 ## 📚 Atualmente estudando
 
 - C#
-- Python Avançado
+- Next.js
+- React
+- Flask
+- SQLAlchemy
 - Estruturas de Dados
-- SQL
 - Engenharia de Software
-- Git e GitHub
 - Desenvolvimento Web
 
 ---
