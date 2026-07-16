@@ -1,104 +1,124 @@
-# Raviel - João Felipe
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+# 👋 Olá, eu sou João Felipe ou Raviel
 
-Me chamo João Felipe, mais conhecido como Raviel, tenho 16 anos e sou natural do Rio Grande do Norte. Atualmente estou cursando o ensino médio no IFRN, com o curso técnico em informática. Sou apaixonado por tecnologia e por criar soluções digitais para o seu problema.
+### 💻 Desenvolvedor Python • Estudante de TII • FullStack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Python;Criando+jogos+com+Pygame;Estudando+Banco+de+Dados;Sempre+aprendendo+algo+novo." />
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="Linux" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-  />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+🎓 Estudante do Curso Tecnico de Informatica Para a Internet no IFRN-CA
 
-<br/>
-<br/>
+🐍 Desenvolvedor Python e JavaScript
 
-### 📊 Estatísticas
+🎮 Apaixonado por desenvolvimento de jogos com Pygame
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=r4viel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+🗄️ Estudando Banco de Dados (MySQL)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4viel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+🌱 Sempre aprendendo novas tecnologias
 
-</p>
+🎯 Objetivo: Tornar-me um Desenvolvedor Profissional
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,linux" />
+
+</div>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=r4viel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4viel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=r4viel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r4viel&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=r4viel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 🎮 Projetos
+
+💻 Alguns projetos desenvolvidos:
+
+- 🎮 Jogos em Python com Pygame
+- 🐍 Aplicações em Python
+- 📚 Aplicações com JavaScript
+- 📚 Projetos acadêmicos
+
+---
+
+## 📚 Atualmente estudando
+
+- C#
+- Python Avançado
+- Estruturas de Dados
+- SQL
+- Engenharia de Software
+- Git e GitHub
+- Desenvolvimento Web
+
+---
+
+## 🌎 Contato
+
+<div align="center">
+
+<a href="https://www.instagram.com/raviel_silva79?igsh=a3Z5Zndkbm1uOTQ1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=r4viel&style=for-the-badge&color=blue)
+
+### ⭐ Obrigado pela visita!
+
+*"Transformando ideias em código e sonhos em realidade."*
+
+</div>
