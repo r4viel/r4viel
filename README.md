@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/raviel_silva79?igsh=a3Z5Zndkbm1uOTQ1">
+<a href="https://github.com/r4viel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
