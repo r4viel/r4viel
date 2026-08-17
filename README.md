@@ -100,7 +100,7 @@
 
 ## 📚 Atualmente estudando
 
-- C#
+- C++
 - Next.js
 - React
 - Flask
