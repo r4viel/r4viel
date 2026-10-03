@@ -65,26 +65,6 @@
 
 ---
 
-## 📊 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=r4viel&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=r4viel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 ## 🎮 Projetos
 
 💻 Alguns projetos desenvolvidos:
